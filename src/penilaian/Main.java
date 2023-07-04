@@ -1,5 +1,5 @@
 package penilaian;
 
-public class Mahasiswa {
+public class Main {
     
 }
